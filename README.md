@@ -11,14 +11,17 @@ My journey in computer science has led me to explore data analytics and cybersec
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill | Associated Project |
+|---|---|
+| Web Development | [Novara E-commerce](https://github.com/VANSH2623/Novara-E-commerce) |
+| HTML, CSS & JavaScript | [Novara E-commerce](https://github.com/VANSH2623/Novara-E-commerce) |
+| Cybersecurity Incident Analysis | [Change Healthcare Ransomware Case Study](https://github.com/VANSH2623/change-healthcare-ransomware-case-study) |
+| Root Cause Analysis | [Change Healthcare Ransomware Case Study](https://github.com/VANSH2623/change-healthcare-ransomware-case-study) |
+| Incident Response & Recovery | [Change Healthcare Ransomware Case Study](https://github.com/VANSH2623/change-healthcare-ransomware-case-study) |
+| Cloud Security & IAM | [Cybersecurity Threat Analysis](https://github.com/VANSH2623/cybersecurity-threat-analysis) |
+| Malware & Endpoint Security | [Cybersecurity Threat Analysis](https://github.com/VANSH2623/cybersecurity-threat-analysis) |
+| Vulnerability Management | [Cybersecurity Threat Analysis](https://github.com/VANSH2623/cybersecurity-threat-analysis) |
+| Threat Modeling & API Security | [Cybersecurity Threat Analysis](https://github.com/VANSH2623/cybersecurity-threat-analysis) |
 
 
 ## 🛠️ Tools & Technologies
@@ -42,6 +45,33 @@ My journey in computer science has led me to explore data analytics and cybersec
     <td align="center" width="100">
       <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
       <br>Power BI
+    </td>
+  </tr>
+</table>
+
+### 💻 Languages
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+      <br>HTML
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+      <br>CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+      <br>C
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+      <br>C++
     </td>
   </tr>
 </table>
@@ -75,16 +105,10 @@ My journey in computer science has led me to explore data analytics and cybersec
   </tr>
 </table>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+- [Novara E-commerce](https://github.com/VANSH2623/Novara-E-commerce)
+- [Change Healthcare Ransomware Case Study](https://github.com/VANSH2623/change-healthcare-ransomware-case-study)
+- [Cybersecurity Threat Analysis](https://github.com/VANSH2623/cybersecurity-threat-analysis)
